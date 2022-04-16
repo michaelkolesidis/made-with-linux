@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/michaelkolesidis/Made_with_Linux.svg" width="400px">
+    <img src="./assets/michaelkolesidis/Made_with_Linux.svg" width="300px">
 </div>
 
 <h4 align="center">A currated collection of Made in Linux stickers/badges for your projects</h4>
