@@ -9,6 +9,15 @@
 
 </div>
 
+## The Stickers in Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Made_with_Linux.svg
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_aqua_island.svg
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_casper.svg
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_eunry.svg
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_lilac.svg
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_wistful.svg
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_silver_sand.svg
+
 ## Tux source: 
 https://en.wikipedia.org/wiki/File:Tux_Mono.svg
 
