@@ -6,8 +6,12 @@
 
 <p align="center">Add one of  these stickers/badges to your projects to show the world that you can do wonders using Linux!</p>
 
+
+
 ## Contents
 - [Made in Linux by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#michael-kolesidis)
+
+
 
 ## The Collection
 
@@ -22,6 +26,11 @@
 </div>
 
 #### Add yours here!
+<br>
+<br>
+<br>
+
+
 
 ## Contributing
 
@@ -31,6 +40,8 @@ with information about the designs, such as color palette, fonts, inspiration et
 - A section in the main README.md with one or more of your design and a link to your folder
 
 You can choose any name for your folder, ex. your username or a descriptive name.
+
+
 
 ## License
 
