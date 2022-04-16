@@ -23,6 +23,7 @@
     <img src="./assets/michaelkolesidis/Made_with_Linux_eunry.svg" width="100px">
     <img src="./assets/michaelkolesidis/Made_with_Linux_lilac.svg" width="100px">
     <img src="./assets/michaelkolesidis/Made_with_Linux_wistful.svg" width="100px">
+    <img src="./assets/michaelkolesidis/Made_with_Linux_silver_sand.svg" width="100px">
 </div>
 
 #### Add yours here! ⬂
