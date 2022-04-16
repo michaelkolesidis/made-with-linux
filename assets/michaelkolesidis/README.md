@@ -23,3 +23,6 @@ Spartan
 | Made_with_Linux_eunry.svg         | (220, 172, 172) |
 | Made_with_Linux_lilac.svg         | (220, 172, 212) |
 | Made_with_Linux_wistful.svg       | (174, 172, 220) |
+
+## Software
+They were created using [Inkscape](https://inkscape.org/) and exported as Inkscape SVG files.
