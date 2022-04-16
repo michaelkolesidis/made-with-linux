@@ -6,6 +6,21 @@
 
 <p align="center">Add one of  these stickers/badges to your projects to show the world that you can do wonders using Linux!</p>
 
+## Contents
+- Michael Kolesidis
+
+## The Collection
+
+### Michael Kolesidis
+<div align="center">
+    <img src="./assets/michaelkolesidis/Made_with_Linux.svg" width="100px">
+    <img src="./assets/michaelkolesidis/Made_with_Linux_aqua_island.svg" width="100px">
+    <img src="./assets/michaelkolesidis/Made_with_Linux_casper.svg" width="100px">
+    <img src="./assets/michaelkolesidis/Made_with_Linux_eunry.svg" width="100px">
+    <img src="./assets/michaelkolesidis/Made_with_Linux_lilac.svg" width="100px">
+    <img src="./assets/michaelkolesidis/Made_with_Linux_wistful.svg" width="100px">
+</div>
+
 ## Contributing
 
 To add your own designs to the list, please fork the project and create a pull request including:
