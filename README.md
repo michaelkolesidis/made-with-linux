@@ -25,7 +25,7 @@
     <img src="./assets/michaelkolesidis/Made_with_Linux_wistful.svg" width="100px">
 </div>
 
-#### Add yours here!
+#### Add yours here! ☟ ☟
 <br>
 <br>
 <br>
