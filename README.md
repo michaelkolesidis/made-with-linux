@@ -7,6 +7,7 @@ To add your own designs to the list, please fork the project and create a pull r
 - A folder with your design(s) and (optionally) a readme file with information about the designs, such as color palette, fonts, inspiration etc. 
 - A section in the main README.md with one or more of your design and a link to your folder
 
+You can choose any name for your folder, ex. your username or a descriptive name.
 
 ## License
 
