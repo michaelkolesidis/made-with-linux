@@ -9,13 +9,13 @@
 
 
 ## Contents
-- [Made in Linux by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#michael-kolesidis)
+- [Made with Linux by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#michael-kolesidis)
 
 
 
 ## The Collection
 
-#### [Made in Linux by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux/tree/main/assets/michaelkolesidis)
+#### [Made with Linux by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux/tree/main/assets/michaelkolesidis)
 <div align="center">
     <img src="./assets/michaelkolesidis/Made_with_Linux.svg" width="100px">
     <img src="./assets/michaelkolesidis/Made_with_Linux_aqua_island.svg" width="100px">
