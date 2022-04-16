@@ -21,6 +21,8 @@
     <img src="./assets/michaelkolesidis/Made_with_Linux_wistful.svg" width="100px">
 </div>
 
+#### Add yours here!
+
 ## Contributing
 
 To add your own designs to the list, please fork the project and create a pull request including:
