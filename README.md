@@ -7,7 +7,7 @@
 <p align="center">Add one of  these stickers/badges to your projects to show the world that you can do wonders using Linux!</p>
 
 ## Contents
-- Michael Kolesidis
+- [Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#michael-kolesidis)
 
 ## The Collection
 
