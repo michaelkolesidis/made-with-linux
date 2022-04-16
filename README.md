@@ -1,6 +1,8 @@
 <h1 align="center">Made with Linux</h1>
 
-<img src="./assets/michaelkolesidis/Made_with_Linux.svg" align="center" width="400px"/>
+<div align="center">
+    <img src="./assets/michaelkolesidis/Made_with_Linux.svg" width="400px">
+</div>
 
 <p align="center">A currated collection of Made in Linux stickers/badges for your projects</p<>>
 
