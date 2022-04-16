@@ -2,9 +2,9 @@
     <img src="./assets/michaelkolesidis/Made_with_Linux.svg" width="300px">
 </div>
 
-<h3 align="center">A currated collection of Made in Linux stickers/badges for your projects</h3>
+<h3 align="center">A currated collection of Made in Linux stickers/badges</h3>
 
-<p align="center">Add one of  these stickers/badges to your project to show the world that you can do wonders using Linux!</p>
+<p align="center">Add one of  these stickers/badges to your projects to show the world that you can do wonders using Linux!</p>
 
 ## Contributing
 
