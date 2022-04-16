@@ -1,3 +1,12 @@
+<div align="center">
+    <img src="./assets/michaelkolesidis/Made_with_Linux.svg" width="100px">
+    <img src="./assets/michaelkolesidis/Made_with_Linux_aqua_island.svg" width="100px">
+    <img src="./assets/michaelkolesidis/Made_with_Linux_casper.svg" width="100px">
+    <img src="./assets/michaelkolesidis/Made_with_Linux_eunry.svg" width="100px">
+    <img src="./assets/michaelkolesidis/Made_with_Linux_lilac.svg" width="100px">
+    <img src="./assets/michaelkolesidis/Made_with_Linux_wistful.svg" width="100px">
+</div>
+
 ## Tux source: 
 https://en.wikipedia.org/wiki/File:Tux_Mono.svg
 
