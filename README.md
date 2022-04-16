@@ -1,6 +1,11 @@
 <h1 align="center">Made with Linux</h1>
 
 
+## Contributing
+
+To add your own designs to the list, please fork the project and create a pull request including:
+- A folder with your design(s) and (optionally) a readme file with information about the designs, such as color palette, fonts, inspiration etc. 
+- A section in the main README.md with one or more of your design and a link to your folder
 
 
 ## License
