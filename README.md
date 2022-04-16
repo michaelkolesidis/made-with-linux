@@ -7,11 +7,11 @@
 <p align="center">Add one of  these stickers/badges to your projects to show the world that you can do wonders using Linux!</p>
 
 ## Contents
-- [Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#michael-kolesidis)
+- [Made in Linux by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#michael-kolesidis)
 
 ## The Collection
 
-### Michael Kolesidis
+### Made in Linux by Michael Kolesidis
 <div align="center">
     <img src="./assets/michaelkolesidis/Made_with_Linux.svg" width="100px">
     <img src="./assets/michaelkolesidis/Made_with_Linux_aqua_island.svg" width="100px">
