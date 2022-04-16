@@ -4,7 +4,7 @@
     <img src="./assets/michaelkolesidis/Made_with_Linux.svg" width="400px">
 </div>
 
-<p align="center">A currated collection of Made in Linux stickers/badges for your projects</p<>>
+<h4 align="center">A currated collection of Made in Linux stickers/badges for your projects</h4>
 
 
 ## Contributing
