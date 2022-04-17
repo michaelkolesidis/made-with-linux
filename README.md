@@ -8,6 +8,11 @@
 
 
 
+## Use
+In order to use any of the designs in its SVG form or in PNG forms of various sizes, please use the files as uploaded to Wikimedia Commons. They can all be found under the [Made in Linux category](https://commons.wikimedia.org/wiki/Category:Made_with_Linux).
+
+
+
 ## Contents
 - [Classic by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#classic-by-michael-kolesidis)
 - [Colorful by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#colorful-by-michael-kolesidis)
@@ -56,6 +61,7 @@ with information about the designs, such as color palette, fonts, inspiration et
 
 You can choose any name for your folder, ex. your username or a descriptive name.
 
+In case you would like to propose changes to the existing designs, please submit an issue.
 
 
 ## License
