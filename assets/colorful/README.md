@@ -21,3 +21,6 @@ Spartan
 
 ## Software
 They were created using [Inkscape](https://inkscape.org/) and exported as Inkscape SVG files.
+
+## Created by
+Michael Kolesidis
