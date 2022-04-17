@@ -30,12 +30,12 @@
 #### [Colorful by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux/tree/main/assets/colorful)
 <div align="center">
     <img src="./assets/colorful/Made_with_Linux_blue.svg" width="100px">
-    <img src="./assets/colorful/Made_with_Linux_brown.svg" width="100px">
-    <img src="./assets/colorful/Made_with_Linux_fuchsia.svg" width="100px">
     <img src="./assets/colorful/Made_with_Linux_green.svg" width="100px"><br>
     <img src="./assets/colorful/Made_with_Linux_orange.svg" width="100px">
+    <img src="./assets/colorful/Made_with_Linux_fuchsia.svg" width="100px">
     <img src="./assets/colorful/Made_with_Linux_purple.svg" width="100px">
     <img src="./assets/colorful/Made_with_Linux_red.svg" width="100px">
+    <img src="./assets/colorful/Made_with_Linux_brown.svg" width="100px">
     <img src="./assets/colorful/Made_with_Linux_gray.svg" width="100px">
 </div>
 
