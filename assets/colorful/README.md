@@ -11,7 +11,14 @@
 </div>
 
 ## The Stickers in Wikimedia Commons
-
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_blue.svg
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_brown.svg
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_fuchsia.svg
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_gray.svg
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_green.svg
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_orange.svg
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_purple.svg
+https://commons.wikimedia.org/wiki/File:Made_with_Linux_red.svg
 
 ## Tux source: 
 https://en.wikipedia.org/wiki/File:Tux_Mono.svg
