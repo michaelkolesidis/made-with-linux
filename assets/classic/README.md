@@ -1,8 +1,10 @@
+<h1 align="center">Classic</h1>
+
 <div align="center">
     <img src="Made_with_Linux.svg" width="100px">
     <img src="Made_with_Linux_aqua_island.svg" width="100px">
     <img src="Made_with_Linux_casper.svg" width="100px">
-    <img src="Made_with_Linux_eunry.svg" width="100px">
+    <img src="Made_with_Linux_eunry.svg" width="100px"><br>
     <img src="Made_with_Linux_lilac.svg" width="100px">
     <img src="Made_with_Linux_wistful.svg" width="100px">
     <img src="Made_with_Linux_silver_sand.svg" width="100px">
