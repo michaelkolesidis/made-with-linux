@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/michaelkolesidis/Made_with_Linux.svg" width="300px">
+    <img src="./assets/classic/Made_with_Linux.svg" width="300px">
 </div>
 
 <h3 align="center">A currated collection of Made in Linux stickers/badges</h3>
@@ -9,21 +9,34 @@
 
 
 ## Contents
-- [Made with Linux by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#michael-kolesidis)
+- [Classic by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#classic)
+- [Classic by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#colorful)
 
 
 
 ## The Collection
 
-#### [Made with Linux by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux/tree/main/assets/michaelkolesidis)
+#### [Classic by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux/tree/main/assets/classic)
 <div align="center">
-    <img src="./assets/michaelkolesidis/Made_with_Linux.svg" width="100px">
-    <img src="./assets/michaelkolesidis/Made_with_Linux_aqua_island.svg" width="100px">
-    <img src="./assets/michaelkolesidis/Made_with_Linux_casper.svg" width="100px">
-    <img src="./assets/michaelkolesidis/Made_with_Linux_eunry.svg" width="100px">
-    <img src="./assets/michaelkolesidis/Made_with_Linux_lilac.svg" width="100px">
-    <img src="./assets/michaelkolesidis/Made_with_Linux_wistful.svg" width="100px">
-    <img src="./assets/michaelkolesidis/Made_with_Linux_silver_sand.svg" width="100px">
+    <img src="./assets/classic/Made_with_Linux.svg" width="100px">
+    <img src="./assets/classic/Made_with_Linux_aqua_island.svg" width="100px">
+    <img src="./assets/classic/Made_with_Linux_casper.svg" width="100px">
+    <img src="./assets/classic/Made_with_Linux_eunry.svg" width="100px">
+    <img src="./assets/classic/Made_with_Linux_lilac.svg" width="100px">
+    <img src="./assets/classic/Made_with_Linux_wistful.svg" width="100px">
+    <img src="./assets/classic/Made_with_Linux_silver_sand.svg" width="100px">
+</div>
+
+#### [Colorful by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux/tree/main/assets/colorful)
+<div align="center">
+    <img src="./assets/colorful/Made_with_Linux_blue.svg" width="100px">
+    <img src="./assets/colorful/Made_with_Linux_brown.svg" width="100px">
+    <img src="./assets/colorful/Made_with_Linux_fuchsia.svg" width="100px">
+    <img src="./assets/colorful/Made_with_Linux_green.svg" width="100px">
+    <img src="./assets/colorful/Made_with_Linux_orange.svg" width="100px">
+    <img src="./assets/colorful/Made_with_Linux_purple.svg" width="100px">
+    <img src="./assets/colorful/Made_with_Linux_red.svg" width="100px">
+    <img src="./assets/colorful/Made_with_Linux_gray.svg" width="100px">
 </div>
 
 #### Add yours here! ⬂
