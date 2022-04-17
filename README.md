@@ -9,8 +9,8 @@
 
 
 ## Contents
-- [Classic by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#classic)
-- [Classic by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#colorful)
+- [Classic by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#classic-by-michael-kolesidis)
+- [Colorful by Michael Kolesidis](https://github.com/michaelkolesidis/made-with-linux#colorful-by-michael-kolesidis)
 
 
 
