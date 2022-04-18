@@ -79,7 +79,6 @@ This work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 
 <br>
-<br>
 
 <div align="center">
   <h4>Sponsored by:</h4>
