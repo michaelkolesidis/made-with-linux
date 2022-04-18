@@ -9,6 +9,7 @@
 
 
 ## Use
+<a href="https://commons.wikimedia.org/wiki/Category:Made_with_Linux"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg" width="60px" /></a><br>
 In order to use any of the designs in its SVG form or in PNG forms of various sizes, please use the files as uploaded to Wikimedia Commons (especially when linking to the images). They can all be found under the [Made in Linux category](https://commons.wikimedia.org/wiki/Category:Made_with_Linux).
 
 
