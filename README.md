@@ -83,6 +83,6 @@ This work is licensed under a
 <div align="center">
   <h4>Sponsored by:</h4>
   <a href="https://fsfe.org/index.en.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/f/fc/Free_Software_Foundation_Europe%2C_logo.svg" width="200px" ></a><br><br>
-  <a href="https://thesslinux.github.io/" target="_blank"><img src="https://github.com/thesslinux/thesslinux.github.io/blob/main/thesslinux.svg" width="350px" ></a> 
+  <a href="https://thesslinux.github.io/" target="_blank"><img src="https://github.com/thesslinux/thesslinux.github.io/blob/main/assets/thesslinux.svg" width="350px" ></a> 
     
 </div>
