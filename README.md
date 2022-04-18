@@ -52,16 +52,19 @@ In order to use any of the designs in its SVG form or in PNG forms of various si
 <br>
 
 
+
 ## Contributing
 
 To add your own designs to the list, please fork the project and create a pull request including:
 - A folder inside the assets folder with your design(s) and (optionally) a readme file<br>
-with information about the designs, such as color palette, fonts, inspiration etc. 
-- A section in the main README.md with one or more of your design and a link to your folder
-
-You can choose any name for your folder, ex. your username or a descriptive name.
+with information about the designs, such as color palette, fonts, inspiration etc. You can choose
+any name for your collection and your folder, as long as it is not conflicting with an existing name
+- A section in the main README.md with one or more of your design and a link to your folder. The section
+should a title, comprising of the title of your collection + by + your full name or your username or a
+nickname.
 
 In case you would like to propose changes to the existing designs, please submit an issue.
+
 
 
 ## License
